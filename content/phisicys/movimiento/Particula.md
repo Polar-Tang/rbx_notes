@@ -1,0 +1,2 @@
+Muchas en fisica se reduce el cuerpo al objeto de interes
+Por ejemplo en la carrera de caballos se considera caballo ganador al del primer hocico en llegar a la meta, entonces se podría reducir el caballo aa tan solo el hocico, la partícula

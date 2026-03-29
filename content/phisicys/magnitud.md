@@ -1,0 +1,2 @@
+Número que se obtiene a partir de medir fenómeno físicos. Es una froma de medir algo
+ longitud, masa, tiempo, intensidad eléctrica, temperatura termodinámica, cantidad de sustancia e intensidad luminosa

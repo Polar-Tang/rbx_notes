@@ -1,0 +1,1 @@
+Newton's First Law of Motion, also known as the Law of Inertia, expose that everybody in rest stays in rest and every body in motion stays in motion

@@ -1,0 +1,1 @@
+States that the acelleration of a body is directly proportional to the force applied to it 
