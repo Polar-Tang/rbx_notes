@@ -231,16 +231,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asd.md",
+                "file": "documentation brianrot battle royal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "asd"
+              "title": "documentation brianrot battle royal"
+            }
+          },
+          {
+            "id": "4eabcca9562da66a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pets tycon (1st commision)/Handling special abilities.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Handling special abilities"
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -388,11 +402,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "6fca87f1bdc530d4",
+  "active": "4eabcca9562da66a",
   "lastOpenFiles": [
+    "shooter confesions/Camera/camera.md",
+    "shooter confesions/Camera/todos.md",
+    "Pets tycon (1st commision)/Handling special abilities.md",
+    "Untitled 7.md",
+    "Pets tycon (1st commision)",
     "documentation brianrot battle royal.md",
-    "asd.md",
     "cuadrilateros.md",
+    "quadrupeds confesions/Untitled.md",
+    "quadrupeds confesions/root part on the ground, move using pivotTo or align position.md",
+    "shooter confesions/Camera",
     "prompt - memory leak in a promise.md",
     "Pasted image 20260117221802.png",
     "Pasted image 20251228212343.png",
@@ -425,7 +446,6 @@
     "phisicys/magnitud.md",
     "phisicys/leyes de newton/momentunm.md",
     "phisicys/leyes de newton/2nd law.md",
-    "phisicys/leyes de newton/1st law.md",
     "phisicys/leyes de newton",
     "phisicys"
   ]

@@ -61,3 +61,6 @@ lion
 ✅ there's not pet jump over the fence or something like that
 
 Hey, i've been testing the game a long while and i have fixed some bugs regarding the pet movement, there's some issue that i cannot fix about the rigs though where the pet crouches down to eat but the humanoid rootpart don't change the model orientation (i'm speaking about the eat animation). I can directly describe how to solve this rig problem but it had happened me a lot and i can attach the same model where is happening a similar issue and where is not, also you can notice i optimize the models totally avoiding the use of Humanoid class. Hope you find this useful
+
+### What was the solution? `[EDIT]`
+The pet were not crouching down because the lowerTorso were welded. As most of the pets have this welding and were improperly rigged i cannot use Humanoid. The animations that move a welded part doesn't tranfsorm that welded part at all. I end up using AnimationController and seting the animation priotiry of the eat animation as highest as posible, then the animation "crouches down" the pet because it successful transform the lowerTorso
